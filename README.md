@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with App Development
 - 📫 How to reach me: Email, Website
 
+Some of my projects:
+- Random password generator using crypto web api: https://github.com/ni-ms/pwdgen
+- portfolio website: nikms.com
 
