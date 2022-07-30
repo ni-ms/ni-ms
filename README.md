@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email, Website
 
 Some of my projects:
-- Random password generator using crypto web api: https://github.com/ni-ms/pwdgen
-- portfolio website: www.nikms.com
+- Random password generator using crypto web api:-[link]( https://ni-ms.github.io/pwdgen/)
+
+- portfolio website:[nikms]( www.nikms.com)
 
