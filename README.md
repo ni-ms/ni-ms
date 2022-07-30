@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 Some of my projects:
 - Random password generator using crypto web api: https://github.com/ni-ms/pwdgen
-- portfolio website: nikms.com
+- portfolio website: www.nikms.com
 
