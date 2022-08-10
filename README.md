@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 Some of my projects:
 - Random password generator using crypto web api: [link]( https://ni-ms.github.io/pwdgen/)
-
+- An infinite obstacle runner game: https://github.com/ni-ms/Obstacle_Run
 - portfolio website: www.nikms.com
 
