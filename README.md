@@ -7,9 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Game Development
-- 🌱 I’m currently learning AI.
-- 👯 I’m looking to collaborate on Full Stack Web Development.
-- 🤔 I’m looking for help with App Development and security.
 - 📫 How to reach me: Email, Website
 
 Some of my projects:
