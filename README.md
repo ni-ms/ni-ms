@@ -5,12 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on Game Development
-- 📫 How to reach me: Email, Website
-
-Some of my projects:
-- An infinite obstacle runner game: https://github.com/ni-ms/Obstacle_Run
-- portfolio website: www.nikms.com
-
+WIP
 
