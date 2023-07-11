@@ -5,5 +5,6 @@
 
 Here are some ideas to get you started:
 -->
+[![ni-ms's GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-ms)](https://github.com/ni-ms/github-readme-stats)
 WIP
 
