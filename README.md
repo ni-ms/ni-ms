@@ -6,5 +6,8 @@
 Here are some ideas to get you started:
 -->
 [![ni-ms's GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-ms)](https://github.com/ni-ms/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ni-ms&layout=compact)
+
+
 WIP
 
