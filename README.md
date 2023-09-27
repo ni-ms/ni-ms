@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding and creating cool proj
 - 🔭 I'm currently working on rust.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💬 Let's talk about anything related to coding, technology, or software development.
-- 📫 You can reach me via [email](mailto:nikmsharma@example.com) or [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nikhil-sharma-39056a237/)).
+- 📫 You can reach me via [email](mailto:nikmsharma@gmail.com) or [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nikhil-sharma-39056a237/)).
 
 ## GitHub Stats
 
