@@ -4,9 +4,9 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and creating cool projects. Here's a little bit about me:
 
-- 🔭 I'm currently working on rust.
-- 🌱 I'm constantly learning and exploring new technologies.
-- 💬 Let's talk about anything related to coding, technology, or software development.
+- Currently working on rust.
+- Always trying to learn something new !
+- Let's talk about anything related to coding, technology, or software development.
 - 📫 You can reach me via [email](mailto:nikmsharma@gmail.com) or [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nikhil-sharma-39056a237/)).
 
 ## GitHub Stats
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding and creating cool proj
 
 ## Work in Progress
 
-I'm constantly working on exciting new projects. Stay tuned for updates!
+Will update here soon !
 
 ## My Philosophy
 
