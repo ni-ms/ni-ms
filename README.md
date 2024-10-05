@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ni-ms)
 
+<a href="https://app.daily.dev/nixento"><img src="https://api.daily.dev/devcards/v2/EW9hajRGd2BfdFLhDJbpm.png?r=6mz&type=default" width="356" alt="Nikhil's Dev Card"/></a>
+
 Welcome to my GitHub profile! I'm passionate about coding and creating cool projects. Here's a little bit about me:
 
 - Currently working on rust.
